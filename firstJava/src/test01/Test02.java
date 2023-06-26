@@ -25,7 +25,7 @@ public class Test02 {
         int rand = random.nextInt( 10 );    // 0~9까지의 랜덤한 숫자
         System.out.println(rand);
 
-        // 5~14까지 구할 경우에
+        // 5~14까지 구할 경우에`
         // 0~4를 먼저 구하고 거기서 5를 더한다.
 
         int rand2 = random.nextInt(4)+5;
